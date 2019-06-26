@@ -69,8 +69,7 @@ way, they won't get installed on our server when we deploy our application.
   group :development do
     gem 'shotgun'
     gem 'pry'
-    gem 'tux'
-    gem 'sqlite3', '~> 1.3.6'
+    
   end
 ```
 
